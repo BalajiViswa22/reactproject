@@ -1,0 +1,34 @@
+button[type=submit]
+{
+        background-color:gray;
+        border:none;
+        color: black;
+        padding-right: 3px;
+        padding-left: 3px;
+        font-size: 20px;
+}
+.img{
+    position: absolute;
+    top: 50px;
+    left: 600px;
+}
+input[type=text],[type=password]
+{
+    width:50%;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-left: 40px;
+    box-sizing: border-box;
+    border:2px solid #040609;
+    
+}
+.but
+{
+    width:30%;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-left: 40px;
+    box-sizing: border-box;
+    border:2px solid #8aa6e0;
+    text-size-adjust: 20px;
+}
